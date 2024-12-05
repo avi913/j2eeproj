@@ -81,7 +81,7 @@
         <plugin>
           <groupId>org.codehaus.mojo</groupId>
           <artifactId>sonar-maven-plugin</artifactId>
-          <version>4.7.0.2747</version> <!-- Latest as of Dec 2024 -->
+  <       <version>3.9.0.2155</version> <!-- Try a stable version -->
         </plugin>
         <plugin>
           <artifactId>maven-jar-plugin</artifactId>
